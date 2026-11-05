@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "Gauge-informed PINNs for nonlinear non-reciprocal lattices"
+authors:
+  - family-names: "Almeida"
+    given-names: "Ramsés C. S."
+    affiliation: "Universidade Federal de Alagoas"
+    orcid: "https://orcid.org/0009-0002-3329-0318"
+license: MIT
