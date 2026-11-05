@@ -1,5 +1,0 @@
-jax[cpu]==0.12.*
-optax>=0.2.4
-scipy>=1.14
-numpy>=2.0
-matplotlib>=3.9
